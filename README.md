@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Welcome to SanshTech’s GitHub!
 
-<!--
-**sanshtech-demo/sanshtech-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are **SanshTech**, a full-service digital agency delivering:  
+🌐 **Web Development** | 📱 **Mobile App Development** | 📈 **Digital Marketing Solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Us
+At SanshTech, we help businesses turn ideas into scalable software solutions.
+
+💡 **Our Specialties:**
+- Frontend & Backend Development (React, Node.js, Django)
+- Mobile Apps (Flutter, React Native, Kotlin, Swift)
+- SEO, Social Media, and Digital Strategy
+
+📍 Based in [Your Location], serving clients globally.
+
+---
+
+## 📂 Featured Repository
+[🔗 Demo Projects Repository](https://github.com/sanshtech-demo/demo-projects) – showcasing our sample work.
+
+---
+
+## 🏆 Highlights
+- 50+ Projects Delivered
+- 100% Client Satisfaction
+- Trusted by startups & enterprises worldwide
+
+---
+
+## 📬 Let’s Connect
+📧 Email: [contact@sanshtech.com](mailto:contact@sanshtech.com)  
+🌐 Website: [www.sanshtech.com](https://www.sanshtech.com)  
